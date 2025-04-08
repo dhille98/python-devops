@@ -1,0 +1,32 @@
+# python 
+
+* python is mostly used for `Software Development`,`Web Development`, `Software Testing`, `machine Learning`, `Artificial Intelligence`,`Game Devlopment`, `App Development`
+
+* esily write and understand 
+* in python print the hello word `print("hello word")`
+* python is entrepreted languages 
+
+### history 
+* created python `Guido Van rossum` 
+* offical version is released is in -- 1.0 --> 1991
+
+
+
+### cls-1
+
+* print something on python use `print("message")`
+* extension python files is `.py`
+
+* **pratical exercise** 
+
+```py
+print("hello Word...")
+
+```
+* type of errors **"syntaxError"**
+* **IndentationError**
+
+### codeing exercise on print()
+    - first program - python print functions 
+    - it is declared like this :
+    - print("what to print")
