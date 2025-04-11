@@ -2,3 +2,5 @@
 
 * **IndentationError**
 * **Type Error**
+* **Name Error**
+* 
