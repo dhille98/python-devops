@@ -3,4 +3,5 @@
 * **IndentationError**
 * **Type Error**
 * **Name Error**
-* **IndentationError**
+* **Index Error**
+
